@@ -1,2 +1,3 @@
-# cotg.raider
-[WIP] Crown of the Gods Raiding Helper
+# cotg.tweak
+[WIP] Crown of the Gods Tweak Tool
+
